@@ -1,0 +1,53 @@
+.toolbar{
+    padding:10px 0;
+}
+
+.clear-padding{padding:0}
+.clear-padding-left{padding-left:0;}
+.clear-padding-right{padding-right:0;}
+.clear-padding-top{padding-top:0;}
+.clear-padding-bottom{padding-bottom:0;}
+
+.bs-callout
+{
+  padding: 5px;
+  margin: 10px 0;
+  border: 1px solid #eee;
+  border-left-width: 5px;
+  border-radius: 3px;
+  width: 60% !important;
+  height:180px !important;	
+}
+.bs-callout-info 
+{
+  border-left-color: #1b809e;
+}
+
+.importance_centent
+{
+	color:#428bca!important;
+}
+
+.bs-callout-info_h4
+{
+	color:#1b809e;
+	margin: 5px;
+	width: 100% 
+} 
+
+.bs-callout-info_h4 em
+{
+  color: #ce4844;
+  font-style: normal;
+  font-weight: bold;		
+}
+.custom 
+{
+	
+}
+.custom em
+{
+  color: #ce4844;
+  font-style: normal;
+  font-weight: bold;	
+}
